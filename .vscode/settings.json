@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./M3_Starter_Code"
+    ]
+}
